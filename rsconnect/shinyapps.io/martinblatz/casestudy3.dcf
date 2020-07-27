@@ -1,0 +1,12 @@
+name: casestudy3
+title:
+username:
+account: martinblatz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2614626
+bundleId: 3439163
+url: https://martinblatz.shinyapps.io/casestudy3/
+when: 1595815714.25298
+asMultiple: FALSE
+asStatic: FALSE
